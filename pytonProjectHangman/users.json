@@ -1,0 +1,66 @@
+{
+    "users": [
+        {
+            "username": "brachi",
+            "password": "1",
+            "ID": "88896b01-718e-4d79-91b5-4ef2655eafed",
+            "countP": 6,
+            "words": [
+                "mazal tov",
+                "cherry",
+                "smile"
+            ],
+            "wins": 3
+        },
+        {
+            "username": "b",
+            "password": "y",
+            "ID": "0bafc771-d202-4c0d-af4d-68f1728e00d2",
+            "countP": 0,
+            "words": [],
+            "wins": 0
+        },
+        {
+            "username": "1",
+            "password": "4",
+            "ID": "cde20387-341f-4a80-b889-ee32b2a6cc99",
+            "countP": 0,
+            "words": [],
+            "wins": 0
+        },
+        {
+            "username": "l",
+            "password": "j",
+            "ID": "82039f39-8445-4300-bca8-57e2386d15d5",
+            "countP": 0,
+            "words": [],
+            "wins": 0
+        },
+        {
+            "username": "anan",
+            "password": "7678925",
+            "ID": "08f5e1f8-aee5-4eb9-b37a-a37dd80722e6",
+            "countP": 0,
+            "words": [],
+            "wins": 0
+        },
+        {
+            "username": "n",
+            "password": "l",
+            "ID": "7f93317e-d797-4663-be3c-b5e69fb318f7",
+            "countP": 1,
+            "words": [
+                "mazal tov"
+            ],
+            "wins": 1
+        },
+        {
+            "username": "ddd",
+            "password": "l",
+            "ID": "ba03c033-c30b-492d-9844-e0d5fdabff6d",
+            "countP": 0,
+            "words": [],
+            "wins": 0
+        }
+    ]
+}
